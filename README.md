@@ -1,6 +1,5 @@
 # Act1-Operaciones-basicas-y-metodos-de-JavaScript
 
-<<<<<<< HEAD
 ## Explicacion de Lineas De Codigo
 
 ### Clase1.js
