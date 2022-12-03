@@ -1,4 +1,4 @@
-var nombre = "Dayana", apellido = "Perez";
+var nombre = "Luis", apellido = "Perez";
 
 var NombreEnMayusculas = nombre.toUpperCase();
 var apellidoEnMinusculas = apellido.toLowerCase();
